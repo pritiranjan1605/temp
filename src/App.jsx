@@ -25,11 +25,19 @@ import "./styles.css";
  */
 const siteProps = {
   name: "priti ranjan samal",
+<<<<<<< HEAD
   title: "Web Developer and an enthusiastic coder",
   email: "pritiranjansamal868@gmail.com",
   gitHub: "",
   instagram: "",
   linkedIn: "",
+=======
+  title: "Web Designer & Content Creator",
+  email: "alex@example.com",
+  gitHub: "microsoft",
+  instagram: "microsoft",
+  linkedIn: "satyanadella",
+>>>>>>> 4478117419ace4c08b43e83e1618ee7d41e7c59e
   medium: "",
   twitter: "",
   youTube: "",
